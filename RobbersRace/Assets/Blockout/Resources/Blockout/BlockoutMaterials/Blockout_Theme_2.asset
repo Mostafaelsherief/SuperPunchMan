@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e700a0c224034bc3b1e6d9fe00b3375, type: 3}
+  m_Name: Blockout_Theme_2
+  m_EditorClassIdentifier: 
+  FloorMaterial: {fileID: 2100000, guid: f6709f5f57d0235448cffc7827ecc6f8, type: 2}
+  WallMaterial: {fileID: 2100000, guid: 7e4e7ffbf1ea2324aae882784f610b3b, type: 2}
+  DynamicMaterial: {fileID: 2100000, guid: 9813e5eabbd46294ab12bcbc3652a619, type: 2}
+  TrimMaterial: {fileID: 2100000, guid: cada57838ac9e7149866fbcaf4378cd7, type: 2}
+  FoliageMaterial: {fileID: 2100000, guid: 26ba6a65cf72e5d478881cbc3c4f6b7c, type: 2}
+  LeavesMaterial: {fileID: 2100000, guid: ea30d6ba4a2ed42a09047fd841f050c0, type: 2}
+  WaterMateral: {fileID: 2100000, guid: 2c7247dbd4d51401696ceb0e30af58e4, type: 2}
+  TriTrim: {fileID: 2100000, guid: cd2d9406267fa7e44b5406070c69f16a, type: 2}
+  TriWalls: {fileID: 2100000, guid: de80354ffd3f50e4e991fe12c7fde298, type: 2}
+  TriFloor: {fileID: 2100000, guid: 3543e37444e7d8c43b2ec61432fb2d11, type: 2}
+  TriggerMaterial: {fileID: 2100000, guid: 5de14be88c7e02f4391d6c401833e2c9, type: 2}

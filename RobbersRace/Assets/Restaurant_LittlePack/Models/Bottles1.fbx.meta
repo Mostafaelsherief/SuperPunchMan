@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 47783cf4cee71f247bf1da9dc055d963
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bottle_absinthe1
+    100002: Bottle_beer1
+    100004: Bottle_champagne1
+    100006: Bottle_chocolate liquor1
+    100008: Bottle_cider1
+    100010: Bottle_cognac1
+    100012: Bottle_gin1
+    100014: Bottle_pink wine1
+    100016: Bottle_rum1
+    100018: Bottle_sake1
+    100020: Bottle_sweet liqueur1
+    100022: Bottle_tequila1
+    100024: Bottle_vermouth rosso1
+    100026: Bottle_vermouth white1
+    100028: Bottle_vodka1
+    100030: Bottle_whiskey1
+    100032: Bottle_white wine1
+    100034: Bottle_wine1
+    100036: //RootNode
+    100038: Glass of Gin
+    100040: Glass_ red wine1
+    100042: Glass_Absinthe
+    100044: Glass_beer1
+    100046: 'Glass_champagne '
+    100048: Glass_chocolate licor
+    100050: Glass_cider
+    100052: Glass_cognac
+    100054: Glass_pink wine
+    100056: Glass_rum
+    100058: Glass_sake
+    100060: Glass_sweet liqueur
+    100062: Glass_tequila
+    100064: Glass_vermouth rosso
+    100066: Glass_vodka
+    100068: Glass_whiskey
+    100070: Glass_white wine
+    100072: Glass_whitte vermouth
+    100074: Bottle_absinthe1.010
+    100076: Bottle_beer1.019
+    100078: Bottle_champagne1.012
+    100080: Bottle_gin1.012
+    100082: Bottle_tequila1.013
+    100084: Bottle_vermouth rosso1.009
+    100086: Bottle_vermouth white1.004
+    100088: champagne .002
+    100090: glass of beer.002
+    400000: Bottle_absinthe1
+    400002: Bottle_beer1
+    400004: Bottle_champagne1
+    400006: Bottle_chocolate liquor1
+    400008: Bottle_cider1
+    400010: Bottle_cognac1
+    400012: Bottle_gin1
+    400014: Bottle_pink wine1
+    400016: Bottle_rum1
+    400018: Bottle_sake1
+    400020: Bottle_sweet liqueur1
+    400022: Bottle_tequila1
+    400024: Bottle_vermouth rosso1
+    400026: Bottle_vermouth white1
+    400028: Bottle_vodka1
+    400030: Bottle_whiskey1
+    400032: Bottle_white wine1
+    400034: Bottle_wine1
+    400036: //RootNode
+    400038: Glass of Gin
+    400040: Glass_ red wine1
+    400042: Glass_Absinthe
+    400044: Glass_beer1
+    400046: 'Glass_champagne '
+    400048: Glass_chocolate licor
+    400050: Glass_cider
+    400052: Glass_cognac
+    400054: Glass_pink wine
+    400056: Glass_rum
+    400058: Glass_sake
+    400060: Glass_sweet liqueur
+    400062: Glass_tequila
+    400064: Glass_vermouth rosso
+    400066: Glass_vodka
+    400068: Glass_whiskey
+    400070: Glass_white wine
+    400072: Glass_whitte vermouth
+    400074: Bottle_absinthe1.010
+    400076: Bottle_beer1.019
+    400078: Bottle_champagne1.012
+    400080: Bottle_gin1.012
+    400082: Bottle_tequila1.013
+    400084: Bottle_vermouth rosso1.009
+    400086: Bottle_vermouth white1.004
+    400088: champagne .002
+    400090: glass of beer.002
+    2100000: Crystal
+    2100002: Color1
+    2300000: Bottle_absinthe1
+    2300002: Bottle_beer1
+    2300004: Bottle_champagne1
+    2300006: Bottle_chocolate liquor1
+    2300008: Bottle_cider1
+    2300010: Bottle_cognac1
+    2300012: Bottle_gin1
+    2300014: Bottle_pink wine1
+    2300016: Bottle_rum1
+    2300018: Bottle_sake1
+    2300020: Bottle_sweet liqueur1
+    2300022: Bottle_tequila1
+    2300024: Bottle_vermouth rosso1
+    2300026: Bottle_vermouth white1
+    2300028: Bottle_vodka1
+    2300030: Bottle_whiskey1
+    2300032: Bottle_white wine1
+    2300034: Bottle_wine1
+    2300036: Glass of Gin
+    2300038: Glass_ red wine1
+    2300040: Glass_Absinthe
+    2300042: Glass_beer1
+    2300044: 'Glass_champagne '
+    2300046: Glass_chocolate licor
+    2300048: Glass_cider
+    2300050: Glass_cognac
+    2300052: Glass_pink wine
+    2300054: Glass_rum
+    2300056: Glass_sake
+    2300058: Glass_sweet liqueur
+    2300060: Glass_tequila
+    2300062: Glass_vermouth rosso
+    2300064: Glass_vodka
+    2300066: Glass_whiskey
+    2300068: Glass_white wine
+    2300070: Glass_whitte vermouth
+    2300072: Bottle_absinthe1.010
+    2300074: Bottle_beer1.019
+    2300076: Bottle_champagne1.012
+    2300078: Bottle_gin1.012
+    2300080: Bottle_tequila1.013
+    2300082: Bottle_vermouth rosso1.009
+    2300084: Bottle_vermouth white1.004
+    2300086: champagne .002
+    2300088: glass of beer.002
+    3300000: Bottle_absinthe1
+    3300002: Bottle_beer1
+    3300004: Bottle_champagne1
+    3300006: Bottle_chocolate liquor1
+    3300008: Bottle_cider1
+    3300010: Bottle_cognac1
+    3300012: Bottle_gin1
+    3300014: Bottle_pink wine1
+    3300016: Bottle_rum1
+    3300018: Bottle_sake1
+    3300020: Bottle_sweet liqueur1
+    3300022: Bottle_tequila1
+    3300024: Bottle_vermouth rosso1
+    3300026: Bottle_vermouth white1
+    3300028: Bottle_vodka1
+    3300030: Bottle_whiskey1
+    3300032: Bottle_white wine1
+    3300034: Bottle_wine1
+    3300036: Glass of Gin
+    3300038: Glass_ red wine1
+    3300040: Glass_Absinthe
+    3300042: Glass_beer1
+    3300044: 'Glass_champagne '
+    3300046: Glass_chocolate licor
+    3300048: Glass_cider
+    3300050: Glass_cognac
+    3300052: Glass_pink wine
+    3300054: Glass_rum
+    3300056: Glass_sake
+    3300058: Glass_sweet liqueur
+    3300060: Glass_tequila
+    3300062: Glass_vermouth rosso
+    3300064: Glass_vodka
+    3300066: Glass_whiskey
+    3300068: Glass_white wine
+    3300070: Glass_whitte vermouth
+    3300072: Bottle_absinthe1.010
+    3300074: Bottle_beer1.019
+    3300076: Bottle_champagne1.012
+    3300078: Bottle_gin1.012
+    3300080: Bottle_tequila1.013
+    3300082: Bottle_vermouth rosso1.009
+    3300084: Bottle_vermouth white1.004
+    3300086: champagne .002
+    3300088: glass of beer.002
+    4300000: Glass_ red wine1
+    4300002: Glass_tequila
+    4300004: Bottle_tequila1
+    4300006: Bottle_wine1
+    4300008: Bottle_white wine1
+    4300010: Bottle_pink wine1
+    4300012: Bottle_vodka1
+    4300014: Bottle_cider1
+    4300016: Bottle_sweet liqueur1
+    4300018: Bottle_whiskey1
+    4300020: Bottle_vermouth white1
+    4300022: Bottle_vermouth rosso1
+    4300024: Bottle_beer1
+    4300026: Bottle_rum1
+    4300028: Bottle_absinthe1
+    4300030: Bottle_chocolate liquor1
+    4300032: Bottle_champagne1
+    4300034: Bottle_cognac1
+    4300036: Bottle_gin1
+    4300038: Bottle_sake1
+    4300040: Glass_white wine
+    4300042: Glass_pink wine
+    4300044: Glass_vodka
+    4300046: Glass_cider
+    4300048: Glass_sweet liqueur
+    4300050: Glass_beer1
+    4300052: Glass_whitte vermouth
+    4300054: Glass_vermouth rosso
+    4300056: Glass_rum
+    4300058: Glass_whiskey
+    4300060: Glass_Absinthe
+    4300062: Glass_chocolate licor
+    4300064: 'Glass_champagne '
+    4300066: Glass of Gin
+    4300068: Glass_cognac
+    4300070: Glass_sake
+    4300072: Bottle_absinthe1.010
+    4300074: Bottle_beer1.019
+    4300076: Bottle_champagne1.012
+    4300078: Bottle_gin1.012
+    4300080: Bottle_tequila1.013
+    4300082: Bottle_vermouth rosso1.009
+    4300084: Bottle_vermouth white1.004
+    4300086: champagne .002
+    4300088: glass of beer.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 644b92da2ba6b6a4abd8d859834c3727
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Appliance_beater1
+    100002: Appliance_beater2
+    100004: Appliance_cash_register1
+    100006: Appliance_coffee_machine1
+    100008: Appliance_cooking_griddle1
+    100010: Appliance_cream_whisk1
+    100012: Appliance_deep_fryer1
+    100014: Appliance_dispenser1
+    100016: Appliance_grill1
+    100018: Appliance_microwave
+    100020: Appliance_stove1
+    100022: Appliance_tea_machine1
+    100024: Appliance_toaster1
+    100026: Appliance_TV1
+    100028: Deep_fryer1
+    100030: Garbage1
+    100032: //RootNode
+    100034: Pan1
+    100036: lamp_ceiling2.001
+    100038: TVs_support1
+    400000: Appliance_beater1
+    400002: Appliance_beater2
+    400004: Appliance_cash_register1
+    400006: Appliance_coffee_machine1
+    400008: Appliance_cooking_griddle1
+    400010: Appliance_cream_whisk1
+    400012: Appliance_deep_fryer1
+    400014: Appliance_dispenser1
+    400016: Appliance_grill1
+    400018: Appliance_microwave
+    400020: Appliance_stove1
+    400022: Appliance_tea_machine1
+    400024: Appliance_toaster1
+    400026: Appliance_TV1
+    400028: Deep_fryer1
+    400030: Garbage1
+    400032: //RootNode
+    400034: Pan1
+    400036: lamp_ceiling2.001
+    400038: TVs_support1
+    2100000: Electronic2
+    2100002: Electronic1
+    2100004: Crystal
+    2100006: Color1
+    2100008: Electronic1.005
+    2300000: Appliance_beater1
+    2300002: Appliance_beater2
+    2300004: Appliance_cash_register1
+    2300006: Appliance_coffee_machine1
+    2300008: Appliance_cooking_griddle1
+    2300010: Appliance_cream_whisk1
+    2300012: Appliance_deep_fryer1
+    2300014: Appliance_dispenser1
+    2300016: Appliance_grill1
+    2300018: Appliance_microwave
+    2300020: Appliance_stove1
+    2300022: Appliance_tea_machine1
+    2300024: Appliance_toaster1
+    2300026: Appliance_TV1
+    2300028: Deep_fryer1
+    2300030: Garbage1
+    2300032: Pan1
+    2300034: lamp_ceiling2.001
+    2300036: TVs_support1
+    3300000: Appliance_beater1
+    3300002: Appliance_beater2
+    3300004: Appliance_cash_register1
+    3300006: Appliance_coffee_machine1
+    3300008: Appliance_cooking_griddle1
+    3300010: Appliance_cream_whisk1
+    3300012: Appliance_deep_fryer1
+    3300014: Appliance_dispenser1
+    3300016: Appliance_grill1
+    3300018: Appliance_microwave
+    3300020: Appliance_stove1
+    3300022: Appliance_tea_machine1
+    3300024: Appliance_toaster1
+    3300026: Appliance_TV1
+    3300028: Deep_fryer1
+    3300030: Garbage1
+    3300032: Pan1
+    3300034: lamp_ceiling2.001
+    3300036: TVs_support1
+    4300000: Appliance_toaster1
+    4300002: Appliance_stove1
+    4300004: Appliance_coffee_machine1
+    4300006: Appliance_cream_whisk1
+    4300008: Appliance_tea_machine1
+    4300010: Appliance_microwave
+    4300012: Appliance_beater1
+    4300014: Garbage1
+    4300016: Appliance_cooking_griddle1
+    4300018: Appliance_dispenser1
+    4300020: Appliance_grill1
+    4300022: Appliance_deep_fryer1
+    4300024: Appliance_beater2
+    4300026: Pan1
+    4300028: Deep_fryer1
+    4300030: Appliance_cash_register1
+    4300032: Appliance_TV1
+    4300034: lamp_ceiling2.001
+    4300036: TVs_support1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

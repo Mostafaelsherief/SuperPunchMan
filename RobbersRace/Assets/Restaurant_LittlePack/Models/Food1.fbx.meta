@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: a7bd02a76a4f811469f2c903c3699577
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cookware_coffee maker1
+    100002: Cookware_coffee pot1
+    100004: Cookware_fork
+    100006: Cookware_knife
+    100008: Cookware_napkin ring1
+    100010: Cookware_pepper grinder1
+    100012: Cookware_pepper1.001
+    100014: Cookware_plate1
+    100016: Cookware_plate2
+    100018: Cookware_pot1
+    100020: Cookware_pot2
+    100022: Cookware_salt1
+    100024: Cookware_spoon
+    100026: Cookware_sugar pot1
+    100028: Cookware_teapot1
+    100030: Drink_beer_bottle1
+    100032: Drink_beer_bottle2
+    100034: //RootNode
+    100036: Food_bagel1
+    100038: Food_cake1
+    100040: Food_carrot1
+    100042: Food_chicken1
+    100044: Food_coffee cup1
+    100046: Food_cupcake1
+    100048: Food_egg and bacon1
+    100050: Food_flan1
+    100052: Food_frite potato1
+    100054: Food_hot dog1
+    100056: Food_icecream1
+    100058: Food_jelly1
+    100060: Food_ketchup1
+    100062: Food_mustard1
+    100064: Food_palette1
+    100066: Food_pancakes1
+    100068: Food_piece of cake1
+    100070: Food_pizza1
+    100072: Food_sandwich1
+    100074: Food_sandwich2
+    100076: Food_soda glass1
+    100078: Food_sweet1
+    100080: Food_tea cup1
+    100082: Food_toast1
+    100084: Food_tomato1
+    100086: Cookware_coffee pot1.001
+    100088: Cookware_napkin ring1.001
+    100090: Cookware_salt1.001
+    100092: Cookware_sugar pot1.001
+    100094: Cube.001
+    100096: Food_bagel1.001
+    100098: Food_cake1.001
+    100100: Food_coffee cup1.001
+    100102: Food_flan1.001
+    100104: Food_icecream1.001
+    100106: Food_jelly1.001
+    100108: Food_ketchup1.001
+    100110: Food_mustard1.001
+    100112: Food_pancakes1.001
+    100114: Food_piece of cake1.001
+    100116: Food_pizza1.001
+    100118: Food_sandwich1.001
+    100120: Food_sandwich2.001
+    100122: Food_sweet1.001
+    400000: Cookware_coffee maker1
+    400002: Cookware_coffee pot1
+    400004: Cookware_fork
+    400006: Cookware_knife
+    400008: Cookware_napkin ring1
+    400010: Cookware_pepper grinder1
+    400012: Cookware_pepper1.001
+    400014: Cookware_plate1
+    400016: Cookware_plate2
+    400018: Cookware_pot1
+    400020: Cookware_pot2
+    400022: Cookware_salt1
+    400024: Cookware_spoon
+    400026: Cookware_sugar pot1
+    400028: Cookware_teapot1
+    400030: Drink_beer_bottle1
+    400032: Drink_beer_bottle2
+    400034: //RootNode
+    400036: Food_bagel1
+    400038: Food_cake1
+    400040: Food_carrot1
+    400042: Food_chicken1
+    400044: Food_coffee cup1
+    400046: Food_cupcake1
+    400048: Food_egg and bacon1
+    400050: Food_flan1
+    400052: Food_frite potato1
+    400054: Food_hot dog1
+    400056: Food_icecream1
+    400058: Food_jelly1
+    400060: Food_ketchup1
+    400062: Food_mustard1
+    400064: Food_palette1
+    400066: Food_pancakes1
+    400068: Food_piece of cake1
+    400070: Food_pizza1
+    400072: Food_sandwich1
+    400074: Food_sandwich2
+    400076: Food_soda glass1
+    400078: Food_sweet1
+    400080: Food_tea cup1
+    400082: Food_toast1
+    400084: Food_tomato1
+    400086: Cookware_coffee pot1.001
+    400088: Cookware_napkin ring1.001
+    400090: Cookware_salt1.001
+    400092: Cookware_sugar pot1.001
+    400094: Cube.001
+    400096: Food_bagel1.001
+    400098: Food_cake1.001
+    400100: Food_coffee cup1.001
+    400102: Food_flan1.001
+    400104: Food_icecream1.001
+    400106: Food_jelly1.001
+    400108: Food_ketchup1.001
+    400110: Food_mustard1.001
+    400112: Food_pancakes1.001
+    400114: Food_piece of cake1.001
+    400116: Food_pizza1.001
+    400118: Food_sandwich1.001
+    400120: Food_sandwich2.001
+    400122: Food_sweet1.001
+    2100000: Color1
+    2100002: Crystal
+    2100004: Material.001
+    2300000: Cookware_coffee maker1
+    2300002: Cookware_coffee pot1
+    2300004: Cookware_fork
+    2300006: Cookware_knife
+    2300008: Cookware_napkin ring1
+    2300010: Cookware_pepper grinder1
+    2300012: Cookware_pepper1.001
+    2300014: Cookware_plate1
+    2300016: Cookware_plate2
+    2300018: Cookware_pot1
+    2300020: Cookware_pot2
+    2300022: Cookware_salt1
+    2300024: Cookware_spoon
+    2300026: Cookware_sugar pot1
+    2300028: Cookware_teapot1
+    2300030: Drink_beer_bottle1
+    2300032: Drink_beer_bottle2
+    2300034: Food_bagel1
+    2300036: Food_cake1
+    2300038: Food_carrot1
+    2300040: Food_chicken1
+    2300042: Food_coffee cup1
+    2300044: Food_cupcake1
+    2300046: Food_egg and bacon1
+    2300048: Food_flan1
+    2300050: Food_frite potato1
+    2300052: Food_hot dog1
+    2300054: Food_icecream1
+    2300056: Food_jelly1
+    2300058: Food_ketchup1
+    2300060: Food_mustard1
+    2300062: Food_palette1
+    2300064: Food_pancakes1
+    2300066: Food_piece of cake1
+    2300068: Food_pizza1
+    2300070: Food_sandwich1
+    2300072: Food_sandwich2
+    2300074: Food_soda glass1
+    2300076: Food_sweet1
+    2300078: Food_tea cup1
+    2300080: Food_toast1
+    2300082: Food_tomato1
+    2300084: Cookware_coffee pot1.001
+    2300086: Cookware_napkin ring1.001
+    2300088: Cookware_salt1.001
+    2300090: Cookware_sugar pot1.001
+    2300092: Cube.001
+    2300094: Food_bagel1.001
+    2300096: Food_cake1.001
+    2300098: Food_coffee cup1.001
+    2300100: Food_flan1.001
+    2300102: Food_icecream1.001
+    2300104: Food_jelly1.001
+    2300106: Food_ketchup1.001
+    2300108: Food_mustard1.001
+    2300110: Food_pancakes1.001
+    2300112: Food_piece of cake1.001
+    2300114: Food_pizza1.001
+    2300116: Food_sandwich1.001
+    2300118: Food_sandwich2.001
+    2300120: Food_sweet1.001
+    3300000: Cookware_coffee maker1
+    3300002: Cookware_coffee pot1
+    3300004: Cookware_fork
+    3300006: Cookware_knife
+    3300008: Cookware_napkin ring1
+    3300010: Cookware_pepper grinder1
+    3300012: Cookware_pepper1.001
+    3300014: Cookware_plate1
+    3300016: Cookware_plate2
+    3300018: Cookware_pot1
+    3300020: Cookware_pot2
+    3300022: Cookware_salt1
+    3300024: Cookware_spoon
+    3300026: Cookware_sugar pot1
+    3300028: Cookware_teapot1
+    3300030: Drink_beer_bottle1
+    3300032: Drink_beer_bottle2
+    3300034: Food_bagel1
+    3300036: Food_cake1
+    3300038: Food_carrot1
+    3300040: Food_chicken1
+    3300042: Food_coffee cup1
+    3300044: Food_cupcake1
+    3300046: Food_egg and bacon1
+    3300048: Food_flan1
+    3300050: Food_frite potato1
+    3300052: Food_hot dog1
+    3300054: Food_icecream1
+    3300056: Food_jelly1
+    3300058: Food_ketchup1
+    3300060: Food_mustard1
+    3300062: Food_palette1
+    3300064: Food_pancakes1
+    3300066: Food_piece of cake1
+    3300068: Food_pizza1
+    3300070: Food_sandwich1
+    3300072: Food_sandwich2
+    3300074: Food_soda glass1
+    3300076: Food_sweet1
+    3300078: Food_tea cup1
+    3300080: Food_toast1
+    3300082: Food_tomato1
+    3300084: Cookware_coffee pot1.001
+    3300086: Cookware_napkin ring1.001
+    3300088: Cookware_salt1.001
+    3300090: Cookware_sugar pot1.001
+    3300092: Cube.001
+    3300094: Food_bagel1.001
+    3300096: Food_cake1.001
+    3300098: Food_coffee cup1.001
+    3300100: Food_flan1.001
+    3300102: Food_icecream1.001
+    3300104: Food_jelly1.001
+    3300106: Food_ketchup1.001
+    3300108: Food_mustard1.001
+    3300110: Food_pancakes1.001
+    3300112: Food_piece of cake1.001
+    3300114: Food_pizza1.001
+    3300116: Food_sandwich1.001
+    3300118: Food_sandwich2.001
+    3300120: Food_sweet1.001
+    4300000: Drink_beer_bottle1
+    4300002: Food_soda glass1
+    4300004: Food_ketchup1
+    4300006: Cookware_salt1
+    4300008: Food_cake1
+    4300010: Cookware_napkin ring1
+    4300012: Food_frite potato1
+    4300014: Cookware_sugar pot1
+    4300016: Food_hot dog1
+    4300018: Food_tea cup1
+    4300020: Food_coffee cup1
+    4300022: Food_bagel1
+    4300024: Food_egg and bacon1
+    4300026: Food_pizza1
+    4300028: Food_sandwich1
+    4300030: Food_piece of cake1
+    4300032: Cookware_pepper1.001
+    4300034: Food_mustard1
+    4300036: Drink_beer_bottle2
+    4300038: Cookware_coffee maker1
+    4300040: Cookware_fork
+    4300042: Food_palette1
+    4300044: Cookware_pepper grinder1
+    4300046: Cookware_spoon
+    4300048: Cookware_teapot1
+    4300050: Food_jelly1
+    4300052: Food_flan1
+    4300054: Food_sandwich2
+    4300056: Food_icecream1
+    4300058: Cookware_plate2
+    4300060: Food_cupcake1
+    4300062: Cookware_coffee pot1
+    4300064: Cookware_pot1
+    4300066: Cookware_pot2
+    4300068: Food_sweet1
+    4300070: Food_pancakes1
+    4300072: Cookware_plate1
+    4300074: Food_toast1
+    4300076: Food_chicken1
+    4300078: Food_tomato1
+    4300080: Food_carrot1
+    4300082: Cookware_knife
+    4300084: Cookware_coffee pot1.001
+    4300086: Cookware_napkin ring1.001
+    4300088: Cookware_salt1.001
+    4300090: Cookware_sugar pot1.001
+    4300092: Cube.001
+    4300094: Food_bagel1.001
+    4300096: Food_cake1.001
+    4300098: Food_coffee cup1.001
+    4300100: Food_flan1.001
+    4300102: Food_icecream1.001
+    4300104: Food_jelly1.001
+    4300106: Food_ketchup1.001
+    4300108: Food_mustard1.001
+    4300110: Food_pancakes1.001
+    4300112: Food_piece of cake1.001
+    4300114: Food_pizza1.001
+    4300116: Food_sandwich1.001
+    4300118: Food_sandwich2.001
+    4300120: Food_sweet1.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
