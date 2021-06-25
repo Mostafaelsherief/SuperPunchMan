@@ -15,7 +15,7 @@ A Mobile Game built with Unity 3D Engine.
 
 **Characters** 
 
-Basically, a Guard searches for the Player, if the Player is in Guards Field of View then the Guard kills the Player and the Round is lost if the Player kills the Guard, that happens when the Player Hits the guard from his Back then the guard dies, and the Player wins.The main characters are Player and Guards, for their Movement a Unity Built-in Pathfinding algorithm is used, each character can exist in a number of states. A change of state occurs using a state machine and is triggered by a certain event.
+Basically, a Guard searches for the Player, if the Player is in the guard's field of view then the Guard kills the Player and the Round is lost, if the Player kills the Guard, that happens when the Player Hits the guard from his Back then the guard dies, and the Player wins.The main characters are Player and Guards, for their Movement a Unity Built-in Pathfinding algorithm is used, each character can exist in a number of states. A change of state occurs using a state machine and is triggered by a certain event.
  
 The Player exists in three states: Moving State, Dead State, and Win State. A Guard exists in Three states: Patrolling State, A Shooting state, and Dead state.Each state is characterized by a certain action and an animation,As an Example here the player is Moving, so current State is a Moving State,  and the guard is in a Patrolling state,then the Player is in the Guard’s field of View so a change of State is triggered, the guard changes to a shooting State, and the Player changes to Dead state .
   
