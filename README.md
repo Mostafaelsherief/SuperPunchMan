@@ -11,14 +11,12 @@ A Mobile Game built with Unity 3D Engine.
 ## Game Link 
   
   Available on Google Playstore : https://play.google.com/store/apps/details?id=com.MymCo.SuperPunchman
-## Code Structure
+ ## Game Concept
+  A Stealth Game where the player has to kill all guards without being detected to win a Level ,the player can be detected if he is in the guards field of view ,the guard can only be killed if the player hits him from his back.  
   
-  To Access  [Scripts](https://github.com/Mostafaelsherief/SuperPunchMan/tree/main/RobbersRace/Assets/Scripts)
+  ## Code Structure
   
-  
- #### Characters 
-Basically, a Guard searches for the Player, if the Player is in the guard's field of view then the Guard kills the Player and the Round is lost, if the Player kills the Guard, that happens when the Player Hits the guard from his Back then the guard dies, and the Player wins.The main characters are Player and Guards, for their Movement a Unity Built-in Pathfinding algorithm is used, each character can exist in a number of states. A change of state occurs using a state machine and is triggered by a certain event.
- 
+ #### Characters  
 The Player exists in four states: Moving State, Dead State, Hit by Laser State and Win State. A Guard exists in Three states: Patrolling State, A Shooting state, and Dead state.Each state is characterized by a certain action and an animation,As an Example here the player is Moving, so current State is a Moving State,  and the guard is in a Patrolling state,then the Player is in the Guard’s field of View so a change of state is triggered, the guard changes to a shooting State, and the Player changes to dead state .
  <body>
   <img SRC="RobbersRace/Media/Move-Dead.gif" width="285">
