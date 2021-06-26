@@ -31,7 +31,7 @@ In  [Charater](https://github.com/Mostafaelsherief/SuperPunchMan/tree/main/Robbe
 
 MazeSpawner Class generates complex non-cycled mazes using a recursive approach . Source:https://assetstore.unity.com/packages/tools/modeling/maze-generator-38689
 
-a Maze has only one path available and some areas are dead ends, After changing the Wall prefab used on the original project with some crates and broken wall prefabs you get an open ground with no closed Areas.
+ But a maze has only one path available and some areas are dead ends, After changing the Wall prefab used on the original project with some crates and broken wall prefabs you get an open ground with no closed Areas.
 | With Crates/Broken Walls  | Without Crates/Broken Walls |
 | ------------- | ------------- |
 | <img SRC="RobbersRace/Media/MazeWithCrates.jpg" width="200">  |  <img SRC="RobbersRace/Media/MazeWithoutCrates.jpg" width="200">  |
